@@ -1,6 +1,6 @@
 <h1 style="font-family:courier;"> Hi there, My name is Roy Matthew!</h1>
 
-- 🔭 I am a recent Computer Engineering Graduate 🎓 from UC Irvine. I am looking for Software Development opportunities.
+- 🔭 I am a recent Computer Engineering Graduate 🎓 from UC Irvine. I currently work as a Software Engineer 💻 for Technology Unlimited Group. 
 - ⚡ I enjoy tinkering with hardware projects involving my trusty Raspberry Pi. I also enjoy building PCs.
 - 🎮 I love playing Rocket League and dealing with clickers as Ellie from the Last of Us.
 - 💬 You can get in touch with me by email at [rmramosvii@gmail.com](mailto:rmramosvii@gmail.com) and [LinkedIn](https://www.linkedin.com/in/roymatthewr/)
@@ -23,4 +23,5 @@
 <br><br><br>
 <h4 style="font-family:verdana;"> <b> 💭 what i am currently working on </b> </h4>
 
-- Learning some [NextJS](https://nextjs.org/) as I build my developer portfolio 📜
+- [ ] Learning some [NextJS](https://nextjs.org/) as I build my developer portfolio 📜
+- [ ] Update [BatteRing](https://github.com/roymatchuu/BatteRing) 📷
